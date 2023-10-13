@@ -1,4 +1,4 @@
-# [Laravel Quiz App by nurb8k]
+# [Laravel Quiz App by nurb8k] Not ready yet!
 ----------
 
 # Getting started
